@@ -1,4 +1,4 @@
-# QPage ReactJs Coding Challenge
+# QPage Mobile Coding Challenge
 
 Please read the following docs:
 - [Introduction to the challenge](src/docs/challenge.md)
