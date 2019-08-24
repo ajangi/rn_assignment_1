@@ -1,4 +1,4 @@
-# QPage ReactJs Coding Challenge
+# ReactJs Coding Challenge
 
 Please read the following docs:
 - [Introduction to the challenge](src/docs/challenge.md)
