@@ -1,4 +1,4 @@
-# QPage React Native Coding Challenge
+# SnappDoctor React Native Coding Challenge
 
 Dear Candidate,
 
