@@ -1,4 +1,4 @@
-# SnappDoctor React Native Coding Challenge
+# React Coding Challenge
 
 Dear Candidate,
 
